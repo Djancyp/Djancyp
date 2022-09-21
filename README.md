@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Djan,
+## 👋 Hi, I’m Djan,
 I'm full stack developer with 5+ years of experience in web apps & e-commerce.
 
 I'm a team player, I like to work with people and I'm always open to new ideas.
@@ -7,7 +7,8 @@ I'm a fast learner and I'm always looking for new challenges.
 
 I'm a problem solver, I like to find solutions to problems.
 
-### My tools:
+
+## My tools:
 <!-- Social icons section -->
 <p align="left">
   <a href="#"><img width="32px" alt="Linux"  src="https://img.icons8.com/color/2x/linux.png"/></a>
@@ -21,7 +22,7 @@ I'm a problem solver, I like to find solutions to problems.
   <a href="#"><img width="32px" alt="Git" src="https://img.icons8.com/color/2x/bash.png"></a>
 </p>
 
-### Languages and framewoks:
+## Languages and framewoks:
 <!-- icons section -->
 <p align="left">
   <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/golang.png"/></a>
@@ -37,3 +38,8 @@ I'm a problem solver, I like to find solutions to problems.
   <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/oracle-logo.png"/></a>
   <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/elasticsearch.png"/></a>
 </p>
+
+## Languages that I speak:
+- 🇬🇧English (fluent)
+- 🇨🇾Turkish  (native)
+- 🇪🇸Spanish - Currently learning
