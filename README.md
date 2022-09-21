@@ -7,9 +7,9 @@ I'm a problem solver, I like to find solutions to problems.
 ### My skills:
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/color/2x/linux.png"/></a>
+  <a href="#"><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/color/2x/linux.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="https://icons8.com/icon/zC9SDvhmTlTo/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
