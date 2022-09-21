@@ -6,6 +6,6 @@ I'm a problem solver, I like to find solutions to problems.
 
 ### My skills:
 
-<img alt="Linux icon" srcset="https://img.icons8.com/color/2x/linux.png 2x">
+<img alt="Linux icon" srcset="https://img.icons8.com/color/2x/linux.png">
 
 ### 📫 How to reach me:
