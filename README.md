@@ -24,4 +24,7 @@ I'm a problem solver, I like to find solutions to problems.
 <!-- icons section -->
 <p align="left">
   <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/golang.png"/></a>
+  <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/nodejs.png"/></a>
+  <a href="#"><img width="32px"  src="https://img.icons8.com/office/2x/react.png"/></a>
+  <a href="#"><img width="32px"  src="srcset="https://img.icons8.com/color/2x/vue-js.png"/></a>
 </p>
