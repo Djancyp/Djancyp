@@ -5,7 +5,7 @@ I'm a fast learner and I'm always looking for new challenges.
 I'm a problem solver, I like to find solutions to problems.
 
 ### My skills:
-
-<img alt="Linux icon" srcset="https://img.icons8.com/color/2x/linux.png">
-
+<p align="left">
+<img width="278" alt="Linux icon" srcset="https://img.icons8.com/color/2x/linux.png">
+</p>
 ### 📫 How to reach me:
