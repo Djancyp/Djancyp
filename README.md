@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Djan,
-I'm full stack developer with 5+ years of experience in web development.
+I'm full stack developer with 5+ years of experience in web apps & e-commerce.
 
 I'm a team player, I like to work with people and I'm always open to new ideas.
 
@@ -18,6 +18,7 @@ I'm a problem solver, I like to find solutions to problems.
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="Git" src="https://img.icons8.com/color/2x/git"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="32px" alt="Git" src="https://img.icons8.com/color/2x/bash.png"></a>
 </p>
 
 ### Languages and framewoks:
@@ -31,5 +32,11 @@ I'm a problem solver, I like to find solutions to problems.
   <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/html-5.png"/></a>
   <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/css3.png"/></a>
   <a href="#"><img width="32px"  src="https://img.icons8.com/external-those-icons-flat-those-icons/2x/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/></a>
+  <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/graphql.png"/></a>
+  
+  <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/magento.png"/></a>
+  <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/oracle-logo.png"/></a>
+  <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/graphql.png"/></a>
+  <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/graphql.png"/></a>
   <a href="#"><img width="32px"  src="https://img.icons8.com/color/2x/graphql.png"/></a>
 </p>
