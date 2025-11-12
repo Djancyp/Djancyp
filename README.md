@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m Djan,
-I'm full stack developer with 7+ years of experience in web apps & e-commerce.
+I’m a full-stack developer with over 7 years of experience building web applications and e-commerce platforms.
 
-I'm a team player, I like to work with people and I'm always open to new ideas.
+I thrive in collaborative environments, enjoy working with diverse teams, and stay open to fresh ideas and perspectives.
 
-I'm a fast learner and I'm always looking for new challenges.
+As a fast learner, I’m always eager to take on new challenges and expand my skill set.
 
-I'm a problem solver, I like to find solutions to problems.
+I’m also a natural problem solver who takes pride in finding effective and creative solutions.
 
 
 ## My tools:
